@@ -340,3 +340,12 @@ $mail->setFrom($request->getVar('email'), $request->getVar('name'));
 $mail->addAddress('sendto@gmail.com', 'SendToName');
 
 ```
+
+## Important videos
+
+> Watch the following videos to get more information
+> - [Get Mailtrap.io Configurations](https://youtu.be/kC4v8g5C59M?list=PLX4adOBVJXavmNeP7CU295sX76jgzziio&t=618)
+> - [Create Cpanel email account](https://youtu.be/2GFiORMPaAw?list=PLX4adOBVJXavmNeP7CU295sX76jgzziio&t=103)
+
+
+
